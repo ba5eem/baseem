@@ -1,7 +1,7 @@
 {
   "name": "baseem",
-  "version": "0.0.0",
-  "description": "\"Foundational Library - check back for updates\"",
+  "version": "0.1.1",
+  "description": "\"Bringing more Smile into the world!\"",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter spec"
